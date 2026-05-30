@@ -1,6 +1,7 @@
 🎓 Ejercicio: Sistema de Descuentos en Tienda
 
 📋 Enunciado
+
 Una tienda de ropa aplica descuentos a sus clientes según su tipo de membresía y el total de su compra.
 Tu tarea es crear un programa en Kotlin que calcule el precio final que debe pagar el cliente.
 
@@ -14,13 +15,13 @@ Compra mínima para descuento → $200
 Variables (debes declarar):
 
 Nombre del cliente
-Tipo de membresía ("REGULAR", "PREMIUM" o "VIP")
-Total de la compra antes del descuento
-✅ Condiciones que debe cumplir tu programa
-Si el total de compra no supera los $200, no se aplica ningún descuento
-Si supera los $200, aplicar el descuento según el tipo de membresía
-Si el tipo de membresía ingresado no es válido, mostrar un mensaje de error
-Mostrar siempre: nombre del cliente, total original, descuento aplicado y total a pagar
+    Tipo de membresía ("REGULAR", "PREMIUM" o "VIP")
+    Total de la compra antes del descuento
+    ✅ Condiciones que debe cumplir tu programa
+    Si el total de compra no supera los $200, no se aplica ningún descuento
+    Si supera los $200, aplicar el descuento según el tipo de membresía
+    Si el tipo de membresía ingresado no es válido, mostrar un mensaje de error
+M   ostrar siempre: nombre del cliente, total original, descuento aplicado y total a pagar
 💡 Ejemplo de salida esperada
 Cliente: Ana Martínez
 Membresía: PREMIUM
